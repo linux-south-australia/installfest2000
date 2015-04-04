@@ -1,0 +1,39 @@
+
+DROP SEQUENCE installees_id_seq;
+DROP SEQUENCE installers_id_seq;
+
+DROP TABLE installees;
+DROP TABLE installers;
+
+CREATE SEQUENCE installees_id_seq;
+CREATE SEQUENCE installers_id_seq;
+
+CREATE TABLE installees ( 
+  id          INT DEFAULT nextval('installees_id_seq'),
+  firstname   VARCHAR(25),
+  lastname    VARCHAR(25),
+  email       VARCHAR(50),
+  ewaiver     boolean,
+  paperwaiver boolean,
+  description VARCHAR(256), 
+  confirmed   boolean,
+  completed   boolean
+);
+
+CREATE TABLE installers (
+  id               INT DEFAULT nextval('installers_id_seq'),
+  firstname        VARCHAR(25),
+  lastname         VARCHAR(25),
+  email            VARCHAR(50),
+  offering         VARCHAR(40),
+  install          VARCHAR(75),
+  configure        VARCHAR(75),
+  confirmed        boolean,
+  installer_here   boolean
+);
+
+GRANT ALL ON installees TO nobody;
+GRANT ALL ON installers TO nobody;
+GRANT ALL ON installees TO httpd;
+GRANT ALL ON installers TO httpd;
+

@@ -1,0 +1,72 @@
+
+                   LinuxSA and AUUG proudly present
+ 
+                   I N S T A L L F E S T   2 0 0 0
+ 
+               Saturday July 15.  Adelaide, Australia.
+
+           What's Linux? What's FreeBSD? And Open Source? 
+          Would you like some free, fully functional CDs?
+ 
+      Come and see Open Source in action for yourself. Try it out!
+ 
+    Do you want to try Linux on your computer, but are not sure you
+        know enough to do it yourself?  Would you like someone
+                 knowledgeable around - just in case?
+ 
+        Have you installed Linux, but are stuck getting something
+                 to work and don't know where to turn?
+ 
+         Would you like to talk about Linux or Open Source with an
+                     enthusiastic bunch of people?
+ 
+                    ----<<< o ---------- o >>>----
+ 
+          If you answered yes to any of these questions, then
+       Installfest2000 is for you!  AUUG and LinuxSA are holding
+        the opening event of the 'Australian Installfest Season' 
+             in the centre of Adelaide, South Australia.
+        See http://www.linux.org.au/installfest for full details.
+ 
+    Everyone is welcome, whether you just want to see what Linux is
+   all about, whether you want someone to install or configure Linux
+    for you, or whether you're a seasoned open-source developer who
+            can offer guidance and assistance to others.
+
+      There will be a programme of 15-minute talks by experts on
+           a variety of BSD, Linux and Open Source topics.
+ 
+                    ----<<< o ---------- o >>>----
+ 
+    LinuxSA and AUUG gratefully acknowledge the generous assistance 
+     given by the following organisations, without which this event 
+                      could not take place:
+    o Red Hat (http://www.redhat.com) 
+    o TurboLinux (http://www.turbolinux.com.au) 
+    o Internode Professional Access (http://www.internode.on.net)
+    o Tellurian (http://www.tellurian.com.au)
+    o Netcraft Australia (http://www.netcraft.com.au)
+    o Linuxcare (http://www.linuxcare.com)
+    o Supreme Printers (http://www.supremeprinters.com.au)
+    o BSDi (http://www.bsdi.com)
+    o IIT Training (http://www.iit-training.com.au)
+    o Caldera Systems (http://www.calderasystems.com.au)
+    o Agile Communications (http://www.agile.com.au)
+ 
+  Please visit our website at http://www.linuxsa.org.au/installfest/
+     for more details, contact information and for on-line (free)
+                     registration for the event.
+ 
+                    ----<<< o ---------- o >>>----
+ 
+LinuxSA is non-profit, non-incorporated group of Linux and open-source
+enthusiasts who meet together on the third Tuesday of every month.  We
+  welcome everyone, no matter their level of knowledge or expertise.
+ 
+AUUG Incorporated is the Australian UNIX(*) and Open Systems Users Group.
+ AUUG is a national body offering its members access to information on
+        current and future UNIX and Open Systems technologies.
+ 
+         * UNIX is a registered trademark of The Open Group.
+
+

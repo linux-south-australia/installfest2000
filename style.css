@@ -1,0 +1,29 @@
+BODY { 
+  background-color: #fff5ba;
+  color: black;
+  }
+
+H1,H2,H3,H4,H5,H6 {
+  font-family: sans-serif;
+  }
+
+P,UL {
+  font-family: sans-serif;
+  }
+
+TD, TH {
+  font-family: sans-serif;
+  }
+
+BLOCKQUOTE,EM,A {
+  font-family: sans-serif;
+  }
+
+
+/* Some classes */
+.more {
+    text-decoration: none;
+}
+.nolink{
+    text-decoration: none;
+}

@@ -1,0 +1,20 @@
+
+DROP SEQUENCE tshirt_id_seq;
+
+DROP TABLE tshirt_orders;
+
+CREATE SEQUENCE tshirt_id_seq;
+
+CREATE TABLE tshirt_orders ( 
+  id          INT DEFAULT nextval('tshirt_id_seq'),
+  firstname   VARCHAR(25),
+  lastname    VARCHAR(25),
+  email       VARCHAR(50),
+  size        VARCHAR(5),
+  paid        boolean,
+  received    boolean
+);
+
+GRANT ALL ON tshirt_orders TO nobody;
+GRANT ALL ON tshirt_orders TO httpd;
+

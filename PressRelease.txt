@@ -1,0 +1,79 @@
+LinuxSA/AUUG InstallFest2000 Press Release
+
+For Immediate Release
+
+
+Adelaide, Australia -- Wednesday, June 28th, 2000 -- LinuxSA, in 
+association with AUUG, announced its third InstallFest, to take place 
+on Saturday 15th of July, 2000, to kick off the nationwide 
+"InstallFest Season 2000".
+
+LinuxSA and its sister user groups around the nation are co-ordinating to 
+present InstallFests in every major city in Australia over July, August 
+and September.
+The purpose of these events is to give away as much free software as 
+possible, in particular the Linux and FreeBSD operating systems.
+Experienced Linux users will be on hand to help newer users install, 
+configure and use their new software, and post-InstallFest help will be 
+available from the LinuxSA mailing list.
+
+Richard Russell, Event Coordinator for the LinuxSA/AUUG InstallFest 2000 
+says, "There is a groundswell of support for an event like this here in 
+Adelaide.  As Linux receives more and more publicity, people want to 
+try it out for themselves.  That's where we come in, to help them out."
+ 
+"The response from the local Linux community and from various commercial 
+organisations", David Newall, Event Manager continues, "has simply been 
+excellent.  We expect to be able to help several hundred individuals on 
+the day to try out Linux for the first time."
+
+InstallFest 2000 will be held in Agile Telecommunication's new exchange 
+at 31 York St in the City.
+Further details, including registration details and directions are 
+available at the InstallFest webpage
+(http://www.linuxsa.org.au/installfest/).
+
+LinuxSA and AUUG gratefully acknowledge the generous assistance given by 
+the following organisations, without which this event could not take place:
+    o Red Hat (http://www.redhat.com) 
+    o TurboLinux (http://www.turbolinux.com.au) 
+    o Internode Professional Access (http://www.internode.on.net)
+    o Agile Telecommunications (http://www.agile.com.au)
+    o Tellurian (http://www.tellurian.com.au)
+    o Netcraft Australia (http://www.netcraft.com.au)
+    o Supreme Printers (http://www.supremeprinters.com.au)
+    o LinuxCare Australia (http://www.linuxcare.com.au)    
+    o BSDi (http://www.cdrom.com)
+    o IIT Training (http://www.iit-training.com.au)
+    o Caldera Systems (http://www.calderasystems.com.au)
+
+-------------------------------------------------
+
+LinuxSA is an Adelaide-based Linux Users Group, formed by Matthew Tippett 
+and Geoffrey Bennett in early 1996, and now with over 400 members.
+They hold monthly meetings, open to all, to discuss and learn about Linux 
+and other free software, and operate an active mailing list. 
+http://www.linuxsa.org.au/
+
+AUUG is the Australian Unix and Open Systems Users Group.
+AUUG is a national body offering its members access to information on 
+current and future UNIX and Open Systems technologies. 
+http://www.auug.org.au/
+
+Linux is a free Unix-type operating system originally created by 
+Linus Torvalds with the assistance of thousands of developers around 
+the world.
+Linux is developed under the GNU General Public License, the source code 
+for Linux is freely available to everyone.
+Linux is a sophisticated operating system, and is usually distributed 
+and used with other free software, particularly that from the GNU 
+project. http://www.linux.com and http://www.gnu.org
+
+-------------------------------------------------
+
+Other Sites of relevance:
+
+Australian InstallFest Season -- http://www.linux.org.au/installfest/
+SLUG (Sydney Linux Users Group) -- http://www.slug.org.au/ 
+
+

@@ -1,0 +1,14 @@
+
+Hi installer,
+
+You'll need PHP, postgres and apache for all this to work.
+
+These pages assume a) that apache is running as user 'nobody'
+                   b) that the database is called 'linuxsa'
+
+To get the database up and going you need to :
+
+psql linuxsa < database_create.in
+psql linuxsa < database_create_2.in
+
+
